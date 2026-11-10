@@ -1,0 +1,13 @@
+{
+  "name": "moonside",
+  "description": "Plugins by Moonside. Content Brain first.",
+  "owner": { "name": "Juan Carlos Quintero", "url": "https://github.com/juancarlosqr" },
+  "plugins": [
+    {
+      "name": "content-brain",
+      "source": "./",
+      "description": "Interview, import and maintain your Content Brain brief through the Content Brain connector.",
+      "category": "productivity"
+    }
+  ]
+}

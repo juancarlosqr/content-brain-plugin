@@ -1,0 +1,11 @@
+{
+  "name": "content-brain",
+  "displayName": "Content Brain",
+  "version": "0.1.0",
+  "description": "Set up and maintain your Content Brain brief from Claude: an interview that reads your files and website, imports your past content, and saves confirmed sections through the Content Brain connector.",
+  "author": { "name": "Juan Carlos Quintero", "url": "https://github.com/juancarlosqr" },
+  "homepage": "https://content.moonside.ai",
+  "repository": "https://github.com/juancarlosqr/content-brain-plugin",
+  "license": "MIT",
+  "keywords": ["marketing", "content", "brief", "brand-voice", "mcp", "youtube", "linkedin"]
+}

@@ -1,0 +1,5 @@
+.DS_Store
+*.zip
+evals/results/
+.claude/settings.local.json
+/sources/

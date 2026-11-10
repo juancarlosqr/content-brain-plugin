@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "content-brain": {
+      "type": "http",
+      "url": "https://content.moonside.ai/mcp"
+    }
+  }
+}
