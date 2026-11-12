@@ -30,7 +30,9 @@ If you added the server earlier with `claude mcp add content-brain …`, you now
 
 **claude.ai and Claude Desktop**
 
-Download this repository as a zip, go to Customize › Plugins › Add › Upload plugin, select the zip, then open the plugin's Connectors tab and connect Content Brain with your account.
+Go to Customize › Plugins › Add › Add marketplace, paste `https://github.com/juancarlosqr/content-brain-plugin`, and install Content Brain from the list. Then open the plugin's Connectors tab and connect Content Brain with your account. The marketplace keeps the plugin current as new versions are published.
+
+If you prefer a one-off copy, download this repository as a zip and use Customize › Plugins › Add › Upload plugin instead; updates then mean uploading again.
 
 **Other agents**
 
